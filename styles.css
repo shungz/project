@@ -1,0 +1,514 @@
+body {
+
+   margin: 0%;
+ 
+   }
+
+   @font-face {
+    font-family: "Javanese ";
+    src: url(Javanesetext.ttf) format('truetype');
+   }
+
+
+
+
+
+
+           /* images  */
+
+
+
+
+.R2 {
+   float: right;
+   height: 729px;
+   width: 398px;
+   left: -822px;
+   top: -40px;
+   border-radius: 15px;
+   padding: 2em;
+   margin: -32% 2%;
+}
+
+.R3 {
+   width: 268px;
+   height: 546px;
+   background: url(logo4.png);
+   filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+   border-radius: 15px;
+   margin: 0px 150px;
+}
+
+.R4 {
+   height: 800px;
+   float: right;
+   margin: -180px 200px;
+   position: relative;
+}
+
+.R5 {
+   padding: 30px 80px;
+}
+
+
+     /* text */
+   
+.first-txt {
+   margin: -18% 3% 9%;
+   padding: 30px;
+   width: 622px;
+   height: 79px;
+   color: white;
+   font-family: 'Javanese';
+   font-style: normal;  
+   font-weight: 400;
+   font-size: 45px;
+   line-height: 79px;
+   
+ 
+   
+}
+
+.sec-txt {
+   word-wrap: break-all;
+   padding: 40px 47px;
+   font-family: 'Jaldi';
+   font-style: normal;
+   font-weight: 400px;
+   font-size: 13px;
+   line-height: 40px;
+   word-wrap: break-all;
+}
+
+
+.text {
+   text-align:center;
+   word-spacing: 5px;
+   color: white;
+   font-family: 'Jaldi', sans-serif;
+   font-style: normal;
+   font-weight: 1%;
+   font-size: 25px;
+   line-height: 42px;
+ 
+ }
+
+ .rate {
+   font-family: 'Jim Nightshade';
+   padding-top: 10px;
+   padding-left: 90px;
+   word-spacing: 40px;
+   font-style: normal;
+   font-weight: 400;
+   font-size: 29px;
+   line-height: 41px;
+   color: #FFFFFF;
+
+ }
+
+ .App {
+   padding: 9px;
+   font-family: 'Jaldi';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 29px;
+   line-height: 49px;
+   text-align: center;
+   color: #FFFFFF;
+ }
+
+ .check1 {
+   float: right;
+   margin-top: -350px;
+   position: relative;
+   padding: 0px 200px;
+}
+
+.check2 {
+   float: right;
+   margin-top: -100px;
+   position: relative;
+   margin: 20px 200px;
+}
+
+.check {
+   color: #FFFFFF;
+   margin: 0px -30px;
+   padding: -50px;
+   position: absolute;
+
+}
+
+.check01 {
+   color: #FFFFFF;
+   margin: 0px -30px;
+   padding: -50px;
+   position: absolute;
+}
+
+.Business1 {
+   font-family: 'javanese text',sans-serif;
+   font-style: normal;
+   font-weight: 400;
+   font-size: 19px;
+   line-height: 32px;
+
+}
+ .Business2 {
+   font-family: 'javanese text',sans-serif;
+   font-style: normal;
+   font-weight: 400;
+   font-size: 19px;
+   line-height: 32px;
+  
+ }
+
+.lorem1 {
+   
+   width: 300px;
+   font-style: normal;
+   font-weight: 400px;
+   font-family: 'Jaldi';
+   font-size: 14px;
+   line-height: 20px;
+   padding: -40px;
+   color: rgba(255, 255, 255, 0.59);
+
+}
+
+.lorem2 {
+   width: 300px;
+   font-style: normal;
+   font-weight: 400px;
+   font-family: 'Jaldi';
+   font-size: 14px;
+   line-height: 20px;
+   padding: px;
+   color: rgba(255, 255, 255, 0.59);
+}
+
+.check {
+   color: #FFFFFF;
+   margin: 0px -30px;
+   padding: -50px;
+   position: absolute;
+
+}
+
+.check01 {
+   color: #FFFFFF;
+   margin: 0px -30px;
+   padding: -50px;
+   position: absolute;
+}
+
+
+.super {
+   font-family: 'Javanesetext';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 14px;
+   line-height: 32px;
+
+}
+
+.speed {
+   font-family: 'Jaldi';
+}
+
+.limit {
+  position: absolute;
+  padding: 70px 120px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 42px;
+  color: #FFFFFF;
+}
+
+
+.Q2 {
+font-family: 'jaldi' sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+ padding: 0px 10px;
+ color: rgba(255, 255, 255, 0.59);
+
+}
+
+.faq-lorem {
+   font-family: 'Jaldi';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 14px;
+   line-height: 24px;
+   
+   color: rgba(255, 255, 255, 0.59);
+   padding: 0px 10px;
+}
+
+.tw {
+   padding: 0px -20px ;
+   font-family: 'Jaldi';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 18px;
+   line-height: 30px;
+   color: #FFFFFF;
+}
+
+
+
+
+
+          /* grid */
+
+.grid {
+   display: grid;
+   grid-template-columns: 200px 200px ;
+   gap: 70px;
+   padding: 150px 130px;
+   color: #FFFFFF;
+   
+}
+
+.grid2{
+   display: grid;
+   grid-template-columns: 200px 200px ;
+   gap: 70px;
+   color: #FFFFFF;
+}
+
+.grid3 {
+   display: grid;
+   grid-template-columns: 300px 300px ;
+   gap: 70px;
+   
+   padding: 100px 400px;
+}
+
+.grid4 {
+   display: grid;
+   grid-template-columns: 300px 300px ;
+   gap: 70px;
+   padding: 0px 400px;
+   margin-top: -10px;
+}
+
+.grid5 {
+   display: grid;
+   grid-template-columns: 150px 150px 150px;
+   gap: -20px;
+   float: right;
+   
+
+}
+
+
+.logo-image {
+   padding: 10px 30px ;
+}
+
+         /* Button */
+
+.button1 {
+  background-color: rgb(8, 240, 8);
+  color: black;
+  width: 114px;
+  height: 27px;
+  border-radius: 5px;
+  
+
+}
+
+.button2 {
+   background-color: #FDB913;
+   color: black;
+   width: 95px;
+   height: 27px;
+   border-radius: 5px;
+   text-decoration: black;
+   font-family:"jaldi", sans-serif ;
+}
+
+
+.play {
+  font-family: 'jaldi';
+  margin-left: 150px;
+  background-color: #FFFFFF;
+  font-size: 17px;
+  background: #FFFFFF;
+  border-radius: 7px;
+  padding: 2px 25px;
+
+}
+
+.store {
+   font-size: 17px;
+   background-color: #FFFFFF;
+   border-radius: 7px;
+   font-family: 'jaldi';
+   padding: 2px 25px;
+   margin: 0px 40px;
+   
+   
+}
+
+.topnav  {
+font-family: 'jaldi';
+display:inline;
+text-align: right;
+float: right;
+font-size: 16px;
+line-height: 100%;
+font-family: "jaldi", sans-serif;
+font-style:normal ;
+
+line-height: 25px;
+padding-right: 1%;
+
+}
+
+.topnav a {
+   color: white;
+   margin: 0.5cm;
+}
+
+
+
+
+
+
+
+
+
+    /* Box */
+    
+.box-1  {
+   background-color: #003D79;
+   color: #FFFFFF;
+   border-radius: 0px 192px 0px 0px;
+   width: 595px;
+   height: 374px;
+   margin-top: 215px;
+   position: relative;
+   word-wrap: break-word;
+}
+
+
+
+.box{
+   width:100px;
+   position: absolute;
+   width: 370px;
+   height: 50px;
+   background-color: yellow;
+   margin: 0px 70px;
+   padding-bottom: 50px;
+   margin-top: 50px;
+   background: rgba(255, 255, 255, 0.05);
+   box-shadow: 0px -4px 0px #FFFFFF;
+   border-radius: 5px;
+ }
+
+ .box-2 {
+   float: right;
+   width: 600px;
+   height: 184px;
+   background: #003D79;
+   margin: 10px 0p;
+ }
+
+  .box-3{
+   background: #003D79;
+   box-shadow: 0px 4px 4px rgba(0, 61, 121, 0.59);
+   color: #FFFFFF;
+    
+}
+ 
+ 
+
+ .sm-rate  {
+   word-wrap: break-word;
+   position: absolute;
+   font-family: 'Jaldi', sans-serif;
+   font-weight: 400;
+   font-size: 10px;
+   line-height: 20px;
+   color: #FFFFFF;
+   background-color: #376fa7;
+   
+ }
+
+ 
+ 
+
+  
+
+
+    /* ID */
+
+    #nav {
+      background-color: #003D79;
+             
+       font-family: 'jaldi';
+       font-style: normal;
+       
+    
+       
+    }
+   
+   #Text-Driven {
+      
+      background-color: #376fa7;
+      width: 100%;
+      position: absolute;
+      height: 490px;
+     
+      
+     
+   }
+
+
+   #installs {
+     
+      background-color:#376fa7; 
+      width: 100%;
+      height: 380px;
+      position: relative;
+      margin-top: 490px;
+    }
+
+    #Download {
+      background-color: #376fa7;
+      width: 100%;
+      position: absolute;
+      height: 300px;
+      margin: 0%;
+    }
+
+    #Login {
+      background-color: #376fa7;
+      width: 100%;
+      position: inherit;
+      height: 500px;
+      margin: 0%;
+      margin-top: 300px;
+    }
+
+    #Dashboard {
+      height: 644px;
+      background: #003D79;  
+    }
+
+    #FAQ {
+      background-color: #376fa7;
+      height: 600px;
+    }
+
+    #connect {
+      background: #003D79;  
+      height: 100px;
+    }
